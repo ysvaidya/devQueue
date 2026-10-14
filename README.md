@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevQueue
 
 DevQueue is an AI-powered bug triage and issue management platform for software teams.
@@ -17,3 +18,7 @@ DevQueue is an AI-powered bug triage and issue management platform for software 
 - Backend: Python and FastAPI
 - Database: PostgreSQL and SQLAlchemy
 - Machine Learning: scikit-learn and text embeddings
+=======
+# devQueue
+AI-powered bug triage and issue management platform
+>>>>>>> 94da178a66b754b8fbb70ce0ba8e90dfe36c936a
